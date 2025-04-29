@@ -1,0 +1,5 @@
+PyMuPDF==1.23.16
+langchain==0.1.14
+sentence-transformers==2.6.1
+numpy==1.26.4
+faiss-cpu==1.7.4
